@@ -38,13 +38,13 @@ Hi! I'm Arianna Marie B. Quiambao, a passionate Computer Science student current
 - 📄 Midterm Lab Task 6:([Lab Task 6(pt. 1)](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Midterm%20Lab%20Task%206%20(part%201).pdf))
                         ([Lab Task 6(pt. 2)](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Midterm%20Lab%20Task%206%20(problem%202).pdf))
 
-- 📄 Finals Lab Task 1:([Lab Task 1]())
-- 📄 Finals Lab Task 2:([Lab Task 2]())
-- 📄 Finals Lab Task 3:([Lab Task 3]())
-- 📄 Finals Lab Task 4:([Lab Task 4]())
-- 📄 Finals Lab Task 5:([Lab Task 5]())
-- 📄 Finals Lab Task 6:([Lab Task 6]())
-- 📄 Finals Lab Task 7:([Lab Task 7]())
+- 📄 Finals Lab Task 1:([Lab Task 1](https://github.com/QuiambaoAnnaira/OOP_Portfolio/blob/main/Finals%20Lab%20Task%201.pdf))
+- 📄 Finals Lab Task 2:([Lab Task 2](https://github.com/QuiambaoAnnaira/OOP_Portfolio/blob/main/Finals%20Lab%20Task%202.pdf))
+- 📄 Finals Lab Task 3:([Lab Task 3](https://github.com/QuiambaoAnnaira/OOP_Portfolio/blob/main/Finals%20Lab%20Task%203.pdf))
+- 📄 Finals Lab Task 4:([Lab Task 4](https://github.com/QuiambaoAnnaira/OOP_Portfolio/blob/main/Finals%20Lab%20Task%204.pdf))
+- 📄 Finals Lab Task 5:([Lab Task 5](https://github.com/QuiambaoAnnaira/OOP_Portfolio/blob/main/FINALS%20TASK%205%20Grading%20Program%20updated_Quiambao%2C%20Arianna%20Marie.docx.pdf))
+- 📄 Finals Lab Task 6:([Lab Task 6](https://github.com/QuiambaoAnnaira/OOP_Portfolio/blob/main/Finals%20Lab%20Task%206%20-%20Quiambao_AriannaMarie_B.pdf))
+- 📄 Finals Lab Task 7:([Lab Task 7](https://github.com/QuiambaoAnnaira/OOP_Portfolio/blob/main/Finals%20Lab%20Task%207_Quiambao%2C%20Arianna%20Marie%20B..pdf))
 ---
 
 ## 🎉 FUN FACTS ABOUT ME
