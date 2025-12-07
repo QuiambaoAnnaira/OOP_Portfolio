@@ -37,7 +37,14 @@ Hi! I'm Arianna Marie B. Quiambao, a passionate Computer Science student current
 - 📄 Midterm Lab Task 5:([Lab Task 5](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Midterm%20Lab%20Task%205.pdf))
 - 📄 Midterm Lab Task 6:([Lab Task 6(pt. 1)](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Midterm%20Lab%20Task%206%20(part%201).pdf))
                         ([Lab Task 6(pt. 2)](https://github.com/QuiambaoAnnaira/About-Me/blob/main/Midterm%20Lab%20Task%206%20(problem%202).pdf))
-  
+
+- 📄 Finals Lab Task 1:([Lab Task 1]())
+- 📄 Finals Lab Task 2:([Lab Task 2]())
+- 📄 Finals Lab Task 3:([Lab Task 3]())
+- 📄 Finals Lab Task 4:([Lab Task 4]())
+- 📄 Finals Lab Task 5:([Lab Task 5]())
+- 📄 Finals Lab Task 6:([Lab Task 6]())
+- 📄 Finals Lab Task 7:([Lab Task 7]())
 ---
 
 ## 🎉 FUN FACTS ABOUT ME
